@@ -10,6 +10,8 @@ export const App: React.FunctionComponent = () => {
             <Typography>Technical Assignment</Typography>
           </Toolbar>
         </AppBar>
+
+        {/* TODO: Add components here */}
       </div>
     </ThemeProvider>
   );
