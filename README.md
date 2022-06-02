@@ -1,5 +1,7 @@
 # Getting Started with YouSet technical assignment
 
+## Steps
+
 1. Clone or download locally this repository
 2. Show us your code skills
 3. Upload your project on **your** github or bitbucket and send the link of the repository to the interviewer who sent you the initial instructions
