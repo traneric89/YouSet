@@ -16,5 +16,3 @@ export const App: React.FunctionComponent = () => {
     </ThemeProvider>
   );
 };
-
-export default App;
