@@ -1,5 +1,5 @@
 {
-  "name": "youset-technical-assignment",
+  "name": "clear",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,5 +40,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "1. Clone or download locally this repository\r 2. Show us your code skills\r 3. Upload your project on **your** github or bitbucket and send the link of the repository to the interviewer who sent you the initial instructions",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/heyallset/technical-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/heyallset/technical-assignment/issues"
+  },
+  "homepage": "."
 }
